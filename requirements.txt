@@ -2,4 +2,3 @@ pandas
 streamlit
 pycaret
 streamlit_pandas_profiling
-os

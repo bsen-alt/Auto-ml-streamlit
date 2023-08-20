@@ -1,4 +1,4 @@
 pandas
 streamlit
-pycaret
+pycaret 2.3
 streamlit_pandas_profiling

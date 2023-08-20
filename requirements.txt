@@ -1,1 +1,5 @@
-python -m streamlit run your_script.py
+pandas
+streamlit
+pycaret
+streamlit_pandas_profiling
+os
